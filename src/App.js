@@ -17,7 +17,7 @@ function App() {
       <Navbar />
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          hello
+          hello my className
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <Avatar />
